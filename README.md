@@ -8,6 +8,8 @@ An advanced, premium Full-Stack Student Grievance Redressal Portal designed to s
 
 * **Role-Based Access Control (RBAC):** Separate specialized dashboards for Students, Colleges, and University administrators.
 * **Real-Time Grievance Tracking:** Transparent and clear view of complaint status (Pending, In-Progress, Resolved).
+* **Robust Two-Way Communication Gateway:** Features an interactive query/response panel inside each grievance ticket. Students and administrators can engage in a direct text-based dialogue, request clarifications, and share updates to ensure a transparent resolution process.
+* **Strict Confidentiality & Anonymous Grievances:** To promote a fearless reporting environment, students can choose to submit grievances anonymously. The portal securely masks all personally identifiable information (PII) from the grievance details, ensuring strict privacy while retaining full tracking privileges for the complainant.
 * **Secure Architecture:** Robust token/session-based authentication with strict user permissions.
 * **Modern & Responsive UI:** Clean, fast, and optimized user experience for both desktop and mobile.
 * **Live Notifications:** Socket-powered instant alerts and real-time updates for seamless communication.
@@ -21,7 +23,7 @@ An advanced, premium Full-Stack Student Grievance Redressal Portal designed to s
 | **Frontend (Client)** | Next.js / React.js, Tailwind CSS |
 | **Backend (Server)** | Django, Django REST Framework (DRF) |
 | **Real-time Server** | Socket.io / WebSockets (Node.js) |
-| **Database** | SQLite (Development) / PostgreSQL (Production) |
+| **Database** | SQLite (Development) |
 
 ---
 
